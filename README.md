@@ -9,7 +9,7 @@ A modern, responsive personal portfolio website showcasing my work as a **Data A
 ## About
 
 I'm **Abdullah Inaam**, a Data Analyst based in Bengaluru, Karnataka.  
-I specialize in turning raw data into clear, actionable insights using **SQL**, **Python**, and **Power BI**.
+I specialize in turning raw data into clear, actionable insights using **SQL**, **Python**, **Tableau** and **Power BI**.
 
 This portfolio highlights:
 
@@ -54,34 +54,6 @@ portfolio/
 ├── Abdullah_Inaam_Resume_Data_Analyst.pdf
 └── README.md
 ```
-
----
-
-## Getting Started
-
-### View Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Abdullahinaam/your-portfolio-repo-name.git
-   ```
-2. Open `index.html` in any modern browser  
-   (or use a live server extension in VS Code).
-
-### Deploy
-
-#### Option 1: GitHub Pages (Recommended)
-1. Push this repository to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Source**, select the branch (`main`) and folder (`/ (root)`).
-4. Save — your site will be live at:  
-   `https://Abdullahinaam.github.io/your-repo-name`
-
-#### Option 2: Netlify / Vercel
-- Drag and drop the project folder, or connect the GitHub repo.
-
----
-
 ## Projects Featured
 
 | Project | Description | Tools |
