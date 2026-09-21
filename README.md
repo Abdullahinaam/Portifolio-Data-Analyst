@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my work as a **Data Analyst**.
 
-**Live Demo:** https://abdullahinaam.github.io/Portifolio-Data-Analyst/
+**Live:** https://abdullahinaam.github.io/Portifolio-Data-Analyst/
 
 ---
 
