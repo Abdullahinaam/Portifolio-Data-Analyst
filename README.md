@@ -44,16 +44,6 @@ This portfolio highlights:
 
 ---
 
-## Project Structure
-
-```
-portfolio/
-├── index.html          # Main page
-├── styles.css          # All styles
-├── script.js           # Navigation + animations
-├── Abdullah_Inaam_Resume_Data_Analyst.pdf
-└── README.md
-```
 ## Projects Featured
 
 | Project | Description | Tools |
